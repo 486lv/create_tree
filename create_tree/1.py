@@ -262,5 +262,10 @@ for key in keys:
     rbt.insert(key)
 rbt.visualize('rbt')
 
+#功能3
 
-# 功能2
+#功能4
+
+#功能5
+
+#功能6
