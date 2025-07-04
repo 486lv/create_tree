@@ -261,6 +261,5 @@ rbt = RedBlackTree()
 for key in keys:
     rbt.insert(key)
 rbt.visualize('rbt')
-# 不要功能2
 
 #功能3
